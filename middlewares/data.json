@@ -1,0 +1,28 @@
+{
+    "restaurant": "61b200845c3169f2eb60aaca",
+    "total": 550,
+    "item": [
+        {
+            "name": "Paneer pakoda",
+            "price": 79,
+            "quantity": 2
+        },
+        {
+            "name": "Chapati",
+            "price": 10,
+            "quantity": 8,
+            "extras": {
+                "itemName": "butter",
+                "itemPrice": 2
+            }
+        },
+        {
+            "name": "Lassi",
+            "price": 39,
+            "quantity": 2
+        }
+    ],
+    "paymenttype": "UPI",
+    "paymentstatus": "complete",
+    "deliveryaddress": "61b5b54637c3d41111090d86"
+}
